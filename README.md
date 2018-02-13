@@ -6,7 +6,7 @@ Comparing different machine learning algorithms in Python to classify drawings m
 After training with a batch size of 10 and using 30 epochs for training both the training and validation set of images. 
 The image sizes are 28x28 (std. MNIST dataset sizes)
 
-#### The CNN is a 9-layer CNN wiz are:
+#### The CNN is a 9-layer CNN which is composed of:
 1. A convolution layer of size 5x5
 2. A Max pooling layer of size 2x2
 3. A smaller convolution layer with size 3x3
